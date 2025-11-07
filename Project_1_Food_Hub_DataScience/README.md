@@ -61,10 +61,7 @@ max_time = data['food_preparation_time'].max()
 print(min_time, avg_time, max_time)
 ```
 
-## How this looks in a recruiter portfolio
-- Short summary and clear business recommendations upfront
-- Code + notebook link for reproducibility
-- Key KPIs and recommended next steps clearly listed
+
 
 ---
 
