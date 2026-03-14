@@ -1,10 +1,11 @@
-title: Chinmay Rozeikar Portfolio
-baseurl: 
-url: https://yourusername.github.io/AI_ML_projects
-# Site settings
+title: Chinmay Rozekar Portfolio
+baseurl: "/AI_ML_projects"
+url: "https://chinmayrozekar.github.io"
 
 # Build settings
 markdown: kramdown
-
-# Theme settings
 theme: minima
+
+# Navigation settings
+header_pages:
+  - README.md

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+permalink: /
+---
+
 # Chinmay Rozekar – AI and Machine Learning Portfolio
 
 This repository presents a selection of my work in artificial intelligence, machine learning, and data driven engineering. It reflects the practical skills, analytical discipline, and engineering maturity developed through the PGPAIML program at UT Austin as well as professional experience across semiconductor and software QA domains. Projects here demonstrate a methodical approach to problem solving, clear documentation, and solutions aligned with real industry needs.
